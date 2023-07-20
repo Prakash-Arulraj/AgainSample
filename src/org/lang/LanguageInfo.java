@@ -2,6 +2,12 @@ package org.lang;
 //public class child class extends parent class
 public class LanguageInfo extends StateDetails{
 	
+	public void arulBranch() {
+		System.out.println("This is Arul Branch");
+
+	}
+	
+	
 	public void tamilLanguage() {
 		System.out.println("This is tamil language");
 
